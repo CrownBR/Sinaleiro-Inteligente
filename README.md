@@ -72,13 +72,13 @@ Toda a evolução do projeto está sendo registrada no **Jira**, com tarefas div
 ---
 
 ## 📂 Estrutura (provisória)
-│── README.md
-│── docs/
-│── backend/
-│── core/
-│── scripts/
-│── frontend/
-│── infra/
+/docs
+/backend
+/core
+/scripts
+/frontend
+/infra
+
 
 
 ---
